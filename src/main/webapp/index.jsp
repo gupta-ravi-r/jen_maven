@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ravi_SIT_IT.com</title>
+    <title>Ravi_Dev_IT.com</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -57,7 +57,7 @@
 <body>
 
     <header>
-        <h1>Ravi_SIT_IT.com</h1>
+        <h1>Ravi_DEV_IT.com</h1>
     </header>
 
     <nav>
@@ -68,13 +68,13 @@
     </nav>
 
     <main>
-        <h2>Welcome to Ravi_SIT_IT.com!</h2>
+        <h2>Welcome to Ravi_DEV_IT.com!</h2>
         <p>This is a simple website created using HTML.</p>
         <!-- Add your content here -->
     </main>
 
     <footer>
-        &copy; 2023 Ravi_SIT_IT.com. All rights reserved.
+        &copy; 2023 Ravi_DEV_IT.com. All rights reserved.
     </footer>
 
 </body>

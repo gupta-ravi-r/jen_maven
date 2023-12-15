@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RavidevITjob.com</title>
 
 <head>
     <meta charset="UTF-8">
@@ -10,6 +14,8 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
+
             box-sizing: border-box;
         }
 
@@ -20,6 +26,9 @@
             padding: 1em;
         }
 
+
+        section {
+            padding: 2em;
         nav {
             background-color: #444;
             padding: 0.5em;
@@ -40,6 +49,7 @@
 
         main {
             padding: 1em;
+
         }
 
         footer {
@@ -53,6 +63,23 @@
         }
     </style>
 </head>
+<body>
+
+    <header>
+        <h1>RavidevIT.com</h1>
+        <p>Your go-to destination for IT solutions</p>
+    </header>
+
+    <section>
+        <h2>Welcome to RavidevIT.com!</h2>
+        <p>
+            We are dedicated to providing top-notch IT solutions to meet your business needs.
+            Explore our services and discover how we can help you achieve your goals.
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 RavidevIT.com. All rights reserved.</p>
 
 <body>
 
@@ -75,8 +102,10 @@
 
     <footer>
         &copy; 2023 Ravi_DEV_IT.com. All rights reserved.
+
     </footer>
 
 </body>
 
 </html>
+
